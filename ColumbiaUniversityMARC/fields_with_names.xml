@@ -4,7 +4,7 @@
         <marc:leader>00000npcaa2200000 u 4500</marc:leader>
         <marc:controlfield tag="001">ControlField001</marc:controlfield>
         <marc:controlfield tag="003">ControlField003</marc:controlfield>
-        <marc:controlfield tag="008">191109i xxu eng d</marc:controlfield>
+        <marc:controlfield tag="008">191109i19202010xxu                 eng d</marc:controlfield>
         <marc:datafield ind1=" " ind2=" " tag="035">
             <subfield code="a">First_035_sub_a</subfield>
         </marc:datafield>
@@ -15,7 +15,7 @@
             <subfield code="a">040_sub_a</subfield>
             <subfield code="b">eng</subfield>
             <subfield code="c">040_sub_c</subfield>
-            <subfield code="e">040_sub_e</subfield>
+            <subfield code="e">Describing Archives: A Content Standard</subfield>
         </marc:datafield>
         <marc:datafield ind1="0" ind2=" " tag="041">
             <subfield code="a">eng</subfield>
@@ -63,6 +63,9 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="545">
             <subfield code="a">Second_545_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="546">
+            <subfield code="a">546_sub_a</subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="600">
             <subfield code="a">600_sub_a</subfield>
