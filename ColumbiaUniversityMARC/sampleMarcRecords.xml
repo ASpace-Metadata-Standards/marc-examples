@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testRecords>
+    
+<!--  rich but unmodified record  -->
+    <record>
+        <leader>00000npcaa2200000 u 4500</leader>
+        <controlfield tag="001">13586803</controlfield>
+        <controlfield tag="003">NNC</controlfield>
+        <controlfield tag="008">191109i19202010xxu                 eng d</controlfield>
+        <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(NNC)CULASPC:voyager:13586803</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(OCoLC)ocn1096270004</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(OCoLC)1096270004</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">NNC-RB</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NNC-RB</subfield>
+            <subfield code="e">dacs</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+            <subfield code="a">chi</subfield>
+            <subfield code="a">spa</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="044">
+            <subfield code="a">xxu</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="049">
+            <subfield code="a">NNC-RB</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="099">
+            <subfield code="a">13586803</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Chang, William Yukon</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">William Yukon Chang papers,</subfield>
+            <subfield code="f">1920 - 2010</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">46</subfield>
+            <subfield code="f">Linear Feet (27 record cartons, 5 flat boxes, and 2 small gray boxes)</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="506">
+            <subfield code="a">This collection has no restrictions, but box 30 and box 33 are closed for further processing. </subfield>
+            <subfield code="f">AVAILABLE</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="506">
+            <subfield code="a">This collection is located onsite.</subfield>
+        </datafield>
+        <datafield ind1="2" ind2=" " tag="520">
+            <subfield code="a">The William Yukon Chang papers contains a variety of materials that document Chang’s life and career.The collection holds many of Chang’s China Press columns and a scrapbook that Chang made using clippings from the Ching Chow comics published by the News Syndicate Co. Inc. The collection documents Chang’s personal life with its extensive holding of photographs and scrapbooks related to his family and life in Honolulu, Shanghai, and New York. There are also rare photos of the Tang family in different parts of China, as well as yearbooks and scrapbooks that pertain to May Tang’s travels and schooling in the United States.The collection’s CAT series consists of every issue of the newspaper (except February 1965), voluminous correspondence, photographs and subscribers index, and advertisement printing plates, checks and receipts. The collection’s newspaper and magazine clippings, organizational memorandums, meeting minutes, and reports, journals, business directories, and photographs offer insights into Chinese American life and social service and activism in post-World War II Lower East Side. The papers also includes community studies and reports on issues such as education, housing, juvenile delinquency, mental health and substance abuse.</subfield>
+        </datafield>
+        <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">William Yukon Chang was the founder and editor of "Chinese-American Times", a
+                Chinese American paper that published completely in English from 1955 to 1972. While
+                running the newspaper, Chang also served in local social and civic groups to address
+                issues facing the New York Chinatown community, including poverty, juvenile
+                delinquency, mental illness and lack of access to adult language programs. The William
+                Yukon Chang papers document Chang’s life and career, Chinese American life, and
+                social service and activism scene in the Lower East Side from the 1950s to the 1970s.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="524">
+            <subfield code="a">Identification of specific item; Date (if known); William Yukon Chang Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">Single photocopies may be made for research purposes.</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="544">
+            <subfield code="d">The Museum of Chinese in America holds a related collection of  Willian Yukon Chang  materials.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="545">
+            <subfield code="a">William Yukon Chang was the founder and editor of "Chinese-American Times", a Chinese American paper that published completely in English. A Chinese American from Hawai’i, Chang graduated from St. John’s University in Shanghai. After college, he worked for the Republic of China’s news agency and the popular English-language China Press. As the Chinese civil war raged, Chang returned to the U.S. and earned an M.A. in education from New York University. He married Tang Kou Mei, the first daughter of the Nationalist general Tang Enbo and an exchange student at St. Mary’s College, Winona in 1952 and raised three daughters, Dallas, Marina and Priscilla. He began publishing the CAT (as it became known) in 1955. By focusing on community betterment and staying politically neutral, William Yukon Chang kept his newspaper going until the early 1970s. By that point, many in the English-speaking second generation had moved out of New York City, as so many people did during this period. Because of the Immigration Act of 1965, thousands of new Chinese immigrants–at the time mostly from Hong Kong, Taiwan, and Southeast Asia–were making New York their home, but they sought Chinese-language papers rather than English ones. And by the early 1970s, Chang had been writing, editing, and publishing the paper for almost two decades, so he eventually decided to end the CAT’s run. While running the newspaper, Chang also served in local social and civic groups, including Tsung Tsin Benevolent Association, the Two Bridges Neighborhood Council, Hamilton-Madison House, and Manhattan Borough President’s Planning Board No.1.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="546">
+            <subfield code="a">English, Chinese, Spanish (Material is primarily in English with some items in Chinese and very few in Spanish)</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="583">
+            <subfield code="a">This collection was processed by Hongdeng Gao. Finding aid written by Hongdeng Gao in October 2019.</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="7" tag="600">
+            <subfield code="a">Chang, William Yukon.</subfield>
+            <subfield code="2">local</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="7" tag="600">
+            <subfield code="a">Tang, Kou Mei.</subfield>
+            <subfield code="2">local</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="600">
+            <subfield code="a">Tang, Enbo,</subfield>
+            <subfield code="d">1899-1954.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/no2004102039</subfield>
+        </datafield>
+        <datafield ind1="2" ind2="7" tag="610">
+            <subfield code="a">Two Bridges Neighborhood Council.</subfield>
+            <subfield code="2">local</subfield>
+        </datafield>
+        <datafield ind1="2" ind2="7" tag="610">
+            <subfield code="a">Chinese American Times.</subfield>
+            <subfield code="2">local</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">Chinese Americans</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">Chinese</subfield>
+            <subfield code="z">United States</subfield>
+            <subfield code="x">Societies, etc</subfield>
+            <subfield code="y">20th century</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">Fraternal organizations</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">Chinatowns</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">Emigration and immigration</subfield>
+            <subfield code="z">United States</subfield>
+            <subfield code="y">20th century</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">Education</subfield>
+            <subfield code="z">New York (State)</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">Scrapbooks</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="651">
+            <subfield code="a">New York (State)</subfield>
+            <subfield code="x">History</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="651">
+            <subfield code="a">New York (State)</subfield>
+            <subfield code="v">Periodicals</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Newspapers</subfield>
+            <subfield code="2">aat</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Photographs</subfield>
+            <subfield code="2">aat</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Printing plates</subfield>
+            <subfield code="2">aat</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Fliers (printed matter)</subfield>
+            <subfield code="2">aat</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Correspondence</subfield>
+            <subfield code="2">aat</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="852">
+            <subfield code="a">Columbia University Libraries</subfield>
+            <subfield code="b">Rare Book and Manuscript Library</subfield>
+            <subfield code="c">13586803</subfield>
+            <subfield code="j">MS#1959</subfield>
+        </datafield>
+        <datafield ind1="4" ind2="2" tag="856">
+            <subfield code="u">http://findingaids.cul.columbia.edu/ead//nnc-rb/ldpd_13586803</subfield>
+            <subfield code="3">Finding aid</subfield>
+        </datafield>
+    </record>
+    
+<!--  multiple 300 extent fields  -->
+<!--  missing 1XX creator field  -->
+<!--  multiple 041 subfield a fields  -->
+    <record>
+        <leader>00000npcaa2200000 u 4500</leader>
+        <controlfield tag="001">14345058</controlfield>
+        <controlfield tag="003">NNC</controlfield>
+        <controlfield tag="008">191109i        xxu                 eng d</controlfield>
+        <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(NNC)CULASPC:voyager:14345058</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(OCoLC)1125280235 </subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(OCoLC)on1125280235 </subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">NNC-UA</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NNC-UA</subfield>
+            <subfield code="e">dacs</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+            <subfield code="a">chi</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="044">
+            <subfield code="a">xxu</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="049">
+            <subfield code="a">NNC-RB</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="099">
+            <subfield code="a">14345058</subfield>
+        </datafield>
+        <datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">Tompkins Hall Nursery School records,</subfield>
+            <subfield code="f">1940s-2000s</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">0.63</subfield>
+            <subfield code="f">Linear Feet</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">27</subfield>
+            <subfield code="f">megabytes</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="506">
+            <subfield code="a">Material is unprocessed. Please contact rbml@columbia.edu for more information.</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="506">
+            <subfield code="a">This collection is located on site.</subfield>
+        </datafield>
+        <datafield ind1="2" ind2=" " tag="520">
+            <subfield code="a">Minutes, constitution, by laws, administrative records, financial records, rosters</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="524">
+            <subfield code="a">Identification of specific item; Date (if known); Tompkins Hall Nursery School Records; Box and Folder; University Archives, Rare Book and Manuscript Library, Columbia University Library.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="545">
+            <subfield code="a">Founded by Columbia professors during the 1930s, Tompkins Hall originated as an intimate, part-time, parent cooperative nursery. The play-based program for three- and four-year-old children afforded children opportunities to develop peer relationships, play creatively with materials, and integrate into a group experience, all while in the care of a group of parents and a teacher. Through working in the play group, parents learned about child development and supported each other in their parenting lives. During the 1980s, the play group gradually expanded to become more of a school setting. Hours expanded, and early childhood educators became the primary leaders of the school. In 1992, Tompkins Hall incorporated a toddler program. In the fall of 2007, Tompkins Hall once again expanded, this time to include an infant program.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="651">
+            <subfield code="a">Nursery schools</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="852">
+            <subfield code="a">Columbia University Libraries</subfield>
+            <subfield code="b">Rare Book and Manuscript Library</subfield>
+            <subfield code="c">14345058</subfield>
+            <subfield code="j">UA#0316</subfield>
+        </datafield>
+        <datafield ind1="4" ind2="2" tag="856">
+            <subfield code="u">http://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_14345058</subfield>
+            <subfield code="3">Finding aid</subfield>
+        </datafield>
+    </record>
+    
+<!--  520 ind1=8  -->
+<!--  multiple 041 fields  -->
+<!--  additional 7xx creators  -->
+    
+    <record>
+        <leader>00000npcaa2200000 u 4500</leader>
+        <controlfield tag="001">14345540</controlfield>
+        <controlfield tag="003">NNC</controlfield>
+        <controlfield tag="008">191109i19291979xxu                 eng d</controlfield>
+        <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(NNC)CULASPC:voyager:14345540</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(OCoLC)1125278655 </subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(OCoLC)on1125278655 </subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">NNC-RB</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NNC-RB</subfield>
+            <subfield code="e">dacs</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">chi</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="044">
+            <subfield code="a">xxu</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="049">
+            <subfield code="a">NNC-RB</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="099">
+            <subfield code="a">14345540</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Brown, Harold E.,</subfield>
+            <subfield code="d">1909-1979,</subfield>
+            <subfield code="e">creator.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/nr2003026400</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">Harold Brown Scores,</subfield>
+            <subfield code="f">1929 - 1979</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">0.42</subfield>
+            <subfield code="f">Linear Feet (1 document box)</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="506">
+            <subfield code="a">This collection is located off-site. You will need to request this material at least two business days in advance to use the collection in the Rare Book and Manuscript Library reading room.</subfield>
+        </datafield>
+        <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">Scores and parts, two letters, and biogrphical information</subfield>
+        </datafield>
+        <datafield ind1="2" ind2=" " tag="520">
+            <subfield code="a">Mostly scores by Harold Brown.  There are two letters, 2 CDs, some biogrpahical information, and some Renaissance Chorus Association information.</subfield>
+        </datafield>
+        <datafield ind1="8" ind2=" " tag="520">
+            <subfield code="a">Additional general note, added for testing, with a ind1 = 8</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="524">
+            <subfield code="a">Identification of specific item; Date (if known); Harold Brown Scores; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">The RBML cannot provide access to original time-based media material which has not been first been reformatted for preservation. Researchers are welcome to examine archival time-based media items and decide whether they wish to place an order for Audio/Video reformatting. If copyright and/or condition restrictions apply, it may not be possible to digitize a requested item. Please note that A/V reformatting is handled by an outside vendor and typically takes 6-8 weeks.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="545">
+            <subfield code="a">Harold Brown was instrumental in bringing early music to North America. After completing his musical studies at Columbia University he studied with Nadia Boulanger in Paris, He founded the Renaissance Chorus of New York, which gave concerts and recorded several records under the direction of Brown from 1952-1975.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="545">
+            <subfield code="a">The period which comprised his work with Renaissance music, including choral conducting and editing, extended from about 1951 to his death in 1979.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="545">
+            <subfield code="a">Brown's orchestral scores include: Suite for Strings (1937); piano transcription of a Frescobaldi Passacaglia &amp; Fugue; Introduction &amp; Allegro (Sym. #1), (1938); Orchestral Suite #1; Divertimento for small Orchestra (1945); Four Symphonic Movements (Sym. #2) (1950)--which was also Brown's compositional piece for his Master's degree at Columbia.</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="583">
+            <subfield code="a">Processed by Patrick Lawlor, October 2019</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="600">
+            <subfield code="a">Rorem, Ned,</subfield>
+            <subfield code="d">1923-.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/no00028379</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">Music</subfield>
+            <subfield code="y">20th century</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Scores (documents for music)</subfield>
+            <subfield code="2">aat</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="852">
+            <subfield code="a">Columbia University Libraries</subfield>
+            <subfield code="b">Rare Book and Manuscript Library</subfield>
+            <subfield code="c">14345540</subfield>
+            <subfield code="j">MS#1994</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Chevdar, Erast G,</subfield>
+        </datafield>
+        <datafield ind1="2" ind2=" " tag="710">
+            <subfield code="a">Obʺedinenie Rossiĭskikh Zemskikh i Gorodskikh Dei︠a︡teleĭ v Chekhoslovat︠s︡koĭ Respublike</subfield>
+        </datafield>
+        <datafield ind1="4" ind2="2" tag="856">
+            <subfield code="u">http://findingaids.libraries.columbia.edu/ead/nnc-rb/ldpd_14345540</subfield>
+            <subfield code="3">Finding aid</subfield>
+        </datafield>
+    </record>
+    
+    
+</testRecords>

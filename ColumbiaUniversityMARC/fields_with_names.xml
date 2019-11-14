@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+    <marc:record>
+        <marc:leader>00000npcaa2200000 u 4500</marc:leader>
+        <marc:controlfield tag="001">ControlField001</marc:controlfield>
+        <marc:controlfield tag="003">ControlField003</marc:controlfield>
+        <marc:controlfield tag="008">191109i xxu eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">First_035_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">Second_035_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">040_sub_a</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">040_sub_c</subfield>
+            <subfield code="e">040_sub_e</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+            <subfield code="a">jpn</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="044">
+            <subfield code="a">044_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="049">
+            <subfield code="a">049_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="099">
+            <subfield code="a">099_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">245_sub_a</subfield>
+            <subfield code="b">245_sub_b</subfield>
+            <subfield code="f">245_sub_f</subfield>
+            <subfield code="g">245_sub_g</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">300_sub_a</subfield>
+            <subfield code="f">300_sub_f</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="506">
+            <subfield code="a">506_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="520">
+            <subfield code="a">520_sub_a_ind1_1</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="520">
+            <subfield code="a">520_sub_a_ind1_2</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">520_sub_a_ind1_3</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="8" ind2=" " tag="520">
+            <subfield code="a">520_sub_a_ind1_8</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="524">
+            <subfield code="a">524_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="545">
+            <subfield code="a">First_545_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="545">
+            <subfield code="a">Second_545_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="0" tag="600">
+            <subfield code="a">600_sub_a</subfield>
+            <subfield code="d">600_sub_d</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="600">
+            <subfield code="a">600_sub_a</subfield>
+            <subfield code="d">600_sub_d</subfield>
+            <subfield code="2">600_sub_2</subfield>
+        </marc:datafield>
+
+
+        <marc:datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">650_sub_a</subfield>
+            <subfield code="v">650_sub_v</subfield>
+            <subfield code="x">650_sub_x</subfield>
+            <subfield code="y">650_sub_y</subfield>
+            <subfield code="z">650_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">650_sub_a_ind2_7</subfield>
+            <subfield code="2">650_sub_2</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="0" tag="651">
+            <subfield code="a">651_sub_a</subfield>
+            <subfield code="v">651_sub_v</subfield>
+            <subfield code="x">651_sub_x</subfield>
+            <subfield code="y">651_sub_y</subfield>
+            <subfield code="z">651_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="0" tag="655">
+            <subfield code="a">655_sub_a</subfield>
+            <subfield code="v">655_sub_v</subfield>
+            <subfield code="x">655_sub_x</subfield>
+            <subfield code="y">655_sub_y</subfield>
+            <subfield code="z">655_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">655_sub_a_ind2_7</subfield>
+            <subfield code="2">655_sub_2</subfield>
+        </marc:datafield>
+
+        <marc:datafield ind1=" " ind2="0" tag="700">
+            <subfield code="a">700_sub_a</subfield>
+            <subfield code="d">700_sub_d</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="700">
+            <subfield code="a">700_sub_a</subfield>
+            <subfield code="d">700_sub_d</subfield>
+            <subfield code="2">700_sub_2</subfield>
+        </marc:datafield>
+
+        <marc:datafield ind1=" " ind2="0" tag="710">
+            <subfield code="a">710_sub_a</subfield>
+            <subfield code="d">710_sub_d</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="700">
+            <subfield code="a">710_sub_a</subfield>
+            <subfield code="d">710_sub_d</subfield>
+            <subfield code="2">710_sub_2</subfield>
+        </marc:datafield>
+
+
+        <marc:datafield ind1=" " ind2=" " tag="852">
+            <subfield code="a">852_sub_a</subfield>
+            <subfield code="b">852_sub_b</subfield>
+            <subfield code="c">852_sub_c</subfield>
+            <subfield code="j">852_sub_j</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2="2" tag="856">
+            <subfield code="u">856_u</subfield>
+            <subfield code="3">856_3</subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
