@@ -61,20 +61,40 @@
             <subfield code="u">http://www.example.com</subfield><!--needs to be URL-->
             <subfield code="3">506_sub_3</subfield>
         </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <subfield code="a">520_sub_a_ind1_blank</subfield>
+            <subfield code="b">520_sub_b_ind1_blank</subfield>
+            <subfield code="u">520_sub_u_ind1_blank</subfield>
+            <subfield code="3">520_sub_3_ind1_blank</subfield>
+        </marc:datafield>
         <marc:datafield ind1="1" ind2=" " tag="520">
             <subfield code="a">520_sub_a_ind1_1</subfield>
+            <subfield code="b">520_sub_b_ind1_1</subfield>
+            <subfield code="u">520_sub_u_ind1_1</subfield>
+            <subfield code="3">520_sub_3_ind1_1</subfield>
         </marc:datafield>
         <marc:datafield ind1="2" ind2=" " tag="520">
             <subfield code="a">520_sub_a_ind1_2</subfield>
+            <subfield code="b">520_sub_b_ind1_2</subfield>
+            <subfield code="u">520_sub_u_ind1_2</subfield>
+            <subfield code="3">520_sub_3_ind1_2</subfield>
         </marc:datafield>
         <marc:datafield ind1="3" ind2=" " tag="520">
             <subfield code="a">520_sub_a_ind1_3</subfield>
+            <subfield code="b">520_sub_b_ind1_3</subfield>
+            <subfield code="u">520_sub_u_ind1_3</subfield>
+            <subfield code="3">520_sub_3_ind1_3</subfield>
         </marc:datafield>
         <marc:datafield ind1="8" ind2=" " tag="520">
             <subfield code="a">520_sub_a_ind1_8</subfield>
+            <subfield code="b">520_sub_b_ind1_8</subfield>
+            <subfield code="u">520_sub_u_ind1_8</subfield>
+            <subfield code="3">520_sub_3_ind1_8</subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="524">
             <subfield code="a">524_sub_a</subfield>
+            <subfield code="3">524_sub_3</subfield>
+            <subfield code="2">524_sub_2</subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="545">
             <subfield code="a">First_545_sub_a</subfield>
