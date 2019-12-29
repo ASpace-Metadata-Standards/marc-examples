@@ -104,6 +104,8 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="546">
             <subfield code="a">546_sub_a</subfield>
+            <subfield code="b">546_sub_b</subfield>
+            <subfield code="3">546_sub_3</subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="600">
             <subfield code="a">600_sub_a</subfield>
