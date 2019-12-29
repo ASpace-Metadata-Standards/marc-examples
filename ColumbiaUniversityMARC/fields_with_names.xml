@@ -52,6 +52,20 @@
             <subfield code="a">300_sub_a</subfield>
             <subfield code="f">300_sub_f</subfield>
         </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <subfield code="a">500_sub_a</subfield>
+            <subfield code="3">500_sub_3</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="501">
+            <subfield code="a">501_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="502">
+            <subfield code="a">502_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="504">
+            <subfield code="a">504_sub_a</subfield>
+            <subfield code="b">504_sub_b</subfield>
+        </marc:datafield>
         <marc:datafield ind1="1" ind2=" " tag="506"><!--do the indicators matter? seems like they should, as ind1=1 means restrictions apply-->
             <subfield code="a">506_sub_a</subfield>
             <subfield code="b">506_sub_b</subfield>
@@ -60,6 +74,10 @@
             <subfield code="e">506_sub_e</subfield>
             <subfield code="u">http://www.example.com</subfield><!--needs to be URL-->
             <subfield code="3">506_sub_3</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="507">
+            <subfield code="a">507_sub_a</subfield>
+            <subfield code="b">507_sub_b</subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="520">
             <subfield code="a">520_sub_a_ind1_blank</subfield>
