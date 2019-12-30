@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testRecords> 
+<!-- 245$f and 008   -->
+    <record>
+        <leader>00000npcaa2200000 u 4500</leader>
+        <controlfield tag="001">14345540</controlfield>
+        <controlfield tag="003">NNC</controlfield>
+        <controlfield tag="008">191109i19291979xxu                 eng d</controlfield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">NNC-RB</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NNC-RB</subfield>
+            <subfield code="e">dacs</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">chi</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Brown, Harold E.,</subfield>
+            <subfield code="d">1909-1979,</subfield>
+            <subfield code="e">creator.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/nr2003026400</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">245f and 008</subfield>
+            <subfield code="f">1929 - 1979</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">0.42</subfield>
+            <subfield code="f">Linear Feet (1 document box)</subfield>
+        </datafield>
+    </record>
+ 
+<!-- 245$f and $g, and 008   -->   
+    <record>
+        <leader>00000npcaa2200000 u 4500</leader>
+        <controlfield tag="001">14345541</controlfield>
+        <controlfield tag="003">NNC</controlfield>
+        <controlfield tag="008">191109i19291979xxu                 eng d</controlfield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">NNC-RB</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NNC-RB</subfield>
+            <subfield code="e">dacs</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">chi</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Brown, Harold E.,</subfield>
+            <subfield code="d">1909-1979,</subfield>
+            <subfield code="e">creator.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/nr2003026400</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">245f and g and 008</subfield>
+            <subfield code="f">1929 - 1979</subfield>
+            <subfield code="g">1950 - 1961</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">0.42</subfield>
+            <subfield code="f">Linear Feet (1 document box)</subfield>
+        </datafield>
+    </record>
+    
+    <!-- 245$f and 008 not matching  -->
+    <record>
+        <leader>00000npcaa2200000 u 4500</leader>
+        <controlfield tag="001">14345542</controlfield>
+        <controlfield tag="003">NNC</controlfield>
+        <controlfield tag="008">191109i19291979xxu                 eng d</controlfield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">NNC-RB</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NNC-RB</subfield>
+            <subfield code="e">dacs</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">chi</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Brown, Harold E.,</subfield>
+            <subfield code="d">1909-1979,</subfield>
+            <subfield code="e">creator.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/nr2003026400</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">245f and 008 NOT MATCHING,</subfield>
+            <subfield code="f">1933 - 1963</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">0.42</subfield>
+            <subfield code="f">Linear Feet (1 document box)</subfield>
+        </datafield>
+    </record>
+    
+    <!-- 245$f and $g with 'bulk', and 008   -->   
+    <record>
+        <leader>00000npcaa2200000 u 4500</leader>
+        <controlfield tag="001">14345543</controlfield>
+        <controlfield tag="003">NNC</controlfield>
+        <controlfield tag="008">191109i19291979xxu                 eng d</controlfield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">NNC-RB</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NNC-RB</subfield>
+            <subfield code="e">dacs</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">chi</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Brown, Harold E.,</subfield>
+            <subfield code="d">1909-1979,</subfield>
+            <subfield code="e">creator.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/nr2003026400</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">245f and bulk g, and 008</subfield>
+            <subfield code="f">1929 - 1979</subfield>
+            <subfield code="g">bulk 1950 - 1961</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">0.42</subfield>
+            <subfield code="f">Linear Feet (1 document box)</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="506">
+            <subfield code="a">This collection is located off-site. You will need to request this material at least two business days in advance to use the collection in the Rare Book and Manuscript Library reading room.</subfield>
+        </datafield>
+        <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">Scores and parts, two letters, and biogrphical information</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="600">
+            <subfield code="a">Rorem, Ned,</subfield>
+            <subfield code="d">1923-.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/no00028379</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">Music</subfield>
+            <subfield code="y">20th century</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Scores (documents for music)</subfield>
+            <subfield code="2">aat</subfield>
+        </datafield>
+    </record>
+
+    <!-- 245$g only and 008   -->
+    <record>
+        <leader>00000npcaa2200000 u 4500</leader>
+        <controlfield tag="001">14345544</controlfield>
+        <controlfield tag="003">NNC</controlfield>
+        <controlfield tag="008">191109i19501961xxu                 eng d</controlfield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">NNC-RB</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NNC-RB</subfield>
+            <subfield code="e">dacs</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">chi</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Brown, Harold E.,</subfield>
+            <subfield code="d">1909-1979,</subfield>
+            <subfield code="e">creator.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/nr2003026400</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">245g only and 008,</subfield>
+            <subfield code="g">1950 - 1961</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">0.42</subfield>
+            <subfield code="f">Linear Feet (1 document box)</subfield>
+        </datafield>
+    </record>
+    
+    <!-- 008 only  -->
+    <record>
+        <leader>00000npcaa2200000 u 4500</leader>
+        <controlfield tag="001">14345544</controlfield>
+        <controlfield tag="003">NNC</controlfield>
+        <controlfield tag="008">191109i19291979xxu                 eng d</controlfield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">NNC-RB</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NNC-RB</subfield>
+            <subfield code="e">dacs</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">chi</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Brown, Harold E.,</subfield>
+            <subfield code="d">1909-1979,</subfield>
+            <subfield code="e">creator.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/nr2003026400</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">008 only</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">0.42</subfield>
+            <subfield code="f">Linear Feet (1 document box)</subfield>
+        </datafield>
+    </record>
+
+    <!-- 245$f only -->
+    <record>
+        <leader>00000npcaa2200000 u 4500</leader>
+        <controlfield tag="001">14345544</controlfield>
+        <controlfield tag="003">NNC</controlfield>
+        <controlfield tag="008">191109i        xxu                 eng d</controlfield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">NNC-RB</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">NNC-RB</subfield>
+            <subfield code="e">dacs</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">chi</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Brown, Harold E.,</subfield>
+            <subfield code="d">1909-1979,</subfield>
+            <subfield code="e">creator.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/nr2003026400</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">245f only</subfield>
+            <subfield code="f">1929 - 1979</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">0.42</subfield>
+            <subfield code="f">Linear Feet (1 document box)</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="506">
+            <subfield code="a">This collection is located off-site. You will need to request this material at least two business days in advance to use the collection in the Rare Book and Manuscript Library reading room.</subfield>
+        </datafield>
+        <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">Scores and parts, two letters, and biogrphical information</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="600">
+            <subfield code="a">Rorem, Ned,</subfield>
+            <subfield code="d">1923-.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/no00028379</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">Music</subfield>
+            <subfield code="y">20th century</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Scores (documents for music)</subfield>
+            <subfield code="2">aat</subfield>
+        </datafield>
+    </record>
+
+</testRecords>
