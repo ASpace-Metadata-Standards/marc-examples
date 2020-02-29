@@ -171,10 +171,34 @@
             <subfield code="3">541_sub_3</subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="545">
-            <subfield code="a">First_545_sub_a</subfield>
+            <subfield code="a">First_545_sub_a_indicator_1_blank</subfield>
+            <subfield code="b">First_545_sub_b</subfield>
+            <subfield code="u">First_545_sub_u</subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="545">
             <subfield code="a">Second_545_sub_a</subfield>
+            <subfield code="b">Second_545_sub_b</subfield>
+            <subfield code="u">Second_545_sub_u</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="545">
+            <subfield code="a">First_545_sub_a_indicator_1_zero</subfield>
+            <subfield code="b">First_545_sub_b</subfield>
+            <subfield code="u">First_545_sub_u</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="545">
+            <subfield code="a">Second_545_sub_a_indicator_1_zero</subfield>
+            <subfield code="b">Second_545_sub_b</subfield>
+            <subfield code="u">Second_545_sub_u</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="545">
+            <subfield code="a">First_545_sub_a_indicator_1_one</subfield>
+            <subfield code="b">First_545_sub_b</subfield>
+            <subfield code="u">First_545_sub_u</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="545">
+            <subfield code="a">Second_545_sub_a_indicator_1_one</subfield>
+            <subfield code="b">Second_545_sub_b</subfield>
+            <subfield code="u">Second_545_sub_u</subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="546">
             <subfield code="a">546_sub_a</subfield>
