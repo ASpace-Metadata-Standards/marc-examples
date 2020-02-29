@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+    <marc:record>
+        <marc:leader>00000npcaa2200000 u 4500</marc:leader>
+        <marc:controlfield tag="001">ControlField001</marc:controlfield>
+        <marc:controlfield tag="003">ControlField003</marc:controlfield>
+        <marc:controlfield tag="008">191109i19202010xxu                 eng d</marc:controlfield><!--this includes date and lang information-->
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">First_035_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">040_sub_a</subfield>
+            <subfield code="b">eng</subfield> <!--needs to be an iso 6392b code-->
+            <subfield code="c">040_sub_c</subfield>
+            <subfield code="e">Describing Archives: A Content Standard</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="041"><!--case - if repeatable, repeat subfields or datafields?-->
+            <subfield code="a">eng</subfield> <!--needs to be an iso 6392b code-->
+            <subfield code="a">jpn</subfield> <!--needs to be an iso 6392b code-->
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield> <!--needs to be an iso 6392b code-->
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">jpn</subfield> <!--needs to be an iso 6392b code-->
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">245_sub_a_SUBJECTS</subfield>
+            <subfield code="b">245_sub_b</subfield>
+            <subfield code="c">245_sub_c</subfield>
+            <subfield code="h">245_sub_h</subfield>
+            <subfield code="k">245_sub_k</subfield>
+            <subfield code="n">245_sub_n</subfield>
+            <subfield code="p">245_sub_p</subfield>
+            <subfield code="s">245_sub_s</subfield>
+            <subfield code="f">1952-1995</subfield> <!--needs to be date formated-->
+            <subfield code="g">bulk 1970-1979</subfield> <!--needs to be date formated-->
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">300_sub_a_1</subfield>
+            <subfield code="f">300_sub_f_1</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="0" tag="600">
+            <subfield code="a">600_sub_a</subfield>
+            <subfield code="d">600_sub_d</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="600">
+            <subfield code="a">600_sub_a</subfield>
+            <subfield code="d">600_sub_d</subfield>
+            <subfield code="2">600_sub_2</subfield>
+        </marc:datafield>
+        
+        <marc:datafield ind1=" " ind2="0" tag="630">
+            <subfield code="a">630_sub_a_ind2_zero</subfield>
+            <subfield code="d">630_sub_d</subfield>
+            <subfield code="v">630_sub_v_genre</subfield>
+            <subfield code="x">630_sub_x_topical</subfield>
+            <subfield code="y">630_sub_y_temporal</subfield>
+            <subfield code="z">630_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="1" tag="630">
+            <subfield code="a">630_sub_a_ind2_one</subfield>
+            <subfield code="d">630_sub_d</subfield>
+            <subfield code="v">630_sub_v_genre</subfield>
+            <subfield code="x">630_sub_x_topical</subfield>
+            <subfield code="y">630_sub_y_temporal</subfield>
+            <subfield code="z">630_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="2" tag="630">
+            <subfield code="a">630_sub_a_ind2_two</subfield>
+            <subfield code="d">630_sub_d</subfield>
+            <subfield code="v">630_sub_v_genre</subfield>
+            <subfield code="x">630_sub_x_topical</subfield>
+            <subfield code="y">630_sub_y_temporal</subfield>
+            <subfield code="z">630_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="3" tag="630">
+            <subfield code="a">630_sub_a_ind2_three</subfield>
+            <subfield code="d">630_sub_d</subfield>
+            <subfield code="v">630_sub_v_genre</subfield>
+            <subfield code="x">630_sub_x_topical</subfield>
+            <subfield code="y">630_sub_y_temporal</subfield>
+            <subfield code="z">630_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="630">
+            <subfield code="a">630_sub_a_ind2_four</subfield>
+            <subfield code="d">630_sub_d</subfield>
+            <subfield code="v">630_sub_v_genre</subfield>
+            <subfield code="x">630_sub_x_topical</subfield>
+            <subfield code="y">630_sub_y_temporal</subfield>
+            <subfield code="z">630_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="5" tag="630">
+            <subfield code="a">630_sub_a_ind2_five</subfield>
+            <subfield code="d">630_sub_d</subfield>
+            <subfield code="v">630_sub_v_genre</subfield>
+            <subfield code="x">630_sub_x_topical</subfield>
+            <subfield code="y">630_sub_y_temporal</subfield>
+            <subfield code="z">630_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="6" tag="630">
+            <subfield code="a">630_sub_a_ind2_six</subfield>
+            <subfield code="d">630_sub_d</subfield>
+            <subfield code="v">630_sub_v_genre</subfield>
+            <subfield code="x">630_sub_x_topical</subfield>
+            <subfield code="y">630_sub_y_temporal</subfield>
+            <subfield code="z">630_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="630">
+            <subfield code="a">630_sub_a_ind2_seven</subfield>
+            <subfield code="d">630_sub_d</subfield>
+            <subfield code="v">630_sub_v</subfield>
+            <subfield code="x">630_sub_x</subfield>
+            <subfield code="y">630_sub_y</subfield>
+            <subfield code="z">630_sub_z</subfield>
+            <subfield code="2">630_sub_2_other_source</subfield>
+        </marc:datafield>
+
+
+        <marc:datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">650_sub_a_ind2_zero</subfield>
+            <subfield code="b">650_sub_b</subfield>
+            <subfield code="c">650_sub_c</subfield>
+            <subfield code="d">650_sub_d</subfield>
+            <subfield code="v">650_sub_v_genre</subfield>
+            <subfield code="x">650_sub_x_topical</subfield>
+            <subfield code="y">650_sub_y_temporal</subfield>
+            <subfield code="z">650_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="1" tag="650">
+            <subfield code="a">650_sub_a_ind2_one</subfield>
+            <subfield code="b">650_sub_b</subfield>
+            <subfield code="c">650_sub_c</subfield>
+            <subfield code="d">650_sub_d</subfield>
+            <subfield code="v">650_sub_v_genre</subfield>
+            <subfield code="x">650_sub_x_topical</subfield>
+            <subfield code="y">650_sub_y_temporal</subfield>
+            <subfield code="z">650_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="2" tag="650">
+            <subfield code="a">650_sub_a_ind2_two</subfield>
+            <subfield code="b">650_sub_b</subfield>
+            <subfield code="c">650_sub_c</subfield>
+            <subfield code="d">650_sub_d</subfield>
+            <subfield code="v">650_sub_v_genre</subfield>
+            <subfield code="x">650_sub_x_topical</subfield>
+            <subfield code="y">650_sub_y_temporal</subfield>
+            <subfield code="z">650_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="3" tag="650">
+            <subfield code="a">650_sub_a_ind2_three</subfield>
+            <subfield code="b">650_sub_b</subfield>
+            <subfield code="c">650_sub_c</subfield>
+            <subfield code="d">650_sub_d</subfield>
+            <subfield code="v">650_sub_v_genre</subfield>
+            <subfield code="x">650_sub_x_topical</subfield>
+            <subfield code="y">650_sub_y_temporal</subfield>
+            <subfield code="z">650_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <subfield code="a">650_sub_a_ind2_four</subfield>
+            <subfield code="b">650_sub_b</subfield>
+            <subfield code="c">650_sub_c</subfield>
+            <subfield code="d">650_sub_d</subfield>
+            <subfield code="v">650_sub_v_genre</subfield>
+            <subfield code="x">650_sub_x_topical</subfield>
+            <subfield code="y">650_sub_y_temporal</subfield>
+            <subfield code="z">650_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="5" tag="650">
+            <subfield code="a">650_sub_a_ind2_five</subfield>
+            <subfield code="b">650_sub_b</subfield>
+            <subfield code="c">650_sub_c</subfield>
+            <subfield code="d">650_sub_d</subfield>
+            <subfield code="v">650_sub_v_genre</subfield>
+            <subfield code="x">650_sub_x_topical</subfield>
+            <subfield code="y">650_sub_y_temporal</subfield>
+            <subfield code="z">650_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="6" tag="650">
+            <subfield code="a">650_sub_a_ind2_six</subfield>
+            <subfield code="b">650_sub_b</subfield>
+            <subfield code="c">650_sub_c</subfield>
+            <subfield code="d">650_sub_d</subfield>
+            <subfield code="v">650_sub_v_genre</subfield>
+            <subfield code="x">650_sub_x_topical</subfield>
+            <subfield code="y">650_sub_y_temporal</subfield>
+            <subfield code="z">650_sub_z_geographic</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">650_sub_a_ind2_seven</subfield>
+            <subfield code="b">650_sub_b</subfield>
+            <subfield code="c">650_sub_c</subfield>
+            <subfield code="d">650_sub_d</subfield>
+            <subfield code="v">650_sub_v_genre</subfield>
+            <subfield code="x">650_sub_x_topical</subfield>
+            <subfield code="y">650_sub_y_temporal</subfield>
+            <subfield code="z">650_sub_z_geographic</subfield>
+            <subfield code="2">650_sub_2_source</subfield>
+        </marc:datafield>
+        
+
+        <marc:datafield ind1=" " ind2="0" tag="651">
+            <subfield code="a">651_sub_a</subfield>
+            <subfield code="v">651_sub_v</subfield>
+            <subfield code="x">651_sub_x</subfield>
+            <subfield code="y">651_sub_y</subfield>
+            <subfield code="z">651_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="0" tag="655">
+            <subfield code="a">655_sub_a</subfield>
+            <subfield code="v">655_sub_v</subfield>
+            <subfield code="x">655_sub_x</subfield>
+            <subfield code="y">655_sub_y</subfield>
+            <subfield code="z">655_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">655_sub_a_ind2_7</subfield>
+            <subfield code="2">655_sub_2</subfield>
+        </marc:datafield>
+
+        <marc:datafield ind1=" " ind2="0" tag="700">
+            <subfield code="a">700_sub_a</subfield>
+            <subfield code="d">700_sub_d</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="700">
+            <subfield code="a">700_sub_a</subfield>
+            <subfield code="d">700_sub_d</subfield>
+            <subfield code="2">700_sub_2</subfield>
+        </marc:datafield>
+
+        <marc:datafield ind1=" " ind2="0" tag="710">
+            <subfield code="a">710_sub_a</subfield>
+            <subfield code="d">710_sub_d</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="710">
+            <subfield code="a">710_sub_a</subfield>
+            <subfield code="d">710_sub_d</subfield>
+            <subfield code="2">710_sub_2</subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
