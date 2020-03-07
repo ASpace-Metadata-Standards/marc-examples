@@ -201,14 +201,115 @@
         
 
         <marc:datafield ind1=" " ind2="0" tag="651">
-            <subfield code="a">651_sub_a</subfield>
+            <subfield code="a">651_sub_a_ind2_0</subfield>
             <subfield code="v">651_sub_v</subfield>
             <subfield code="x">651_sub_x</subfield>
             <subfield code="y">651_sub_y</subfield>
             <subfield code="z">651_sub_z</subfield>
         </marc:datafield>
+        
+        <marc:datafield ind1=" " ind2="1" tag="651">
+            <subfield code="a">651_sub_a_ind2_1</subfield>
+            <subfield code="v">651_sub_v</subfield>
+            <subfield code="x">651_sub_x</subfield>
+            <subfield code="y">651_sub_y</subfield>
+            <subfield code="z">651_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="2" tag="651">
+            <subfield code="a">651_sub_a_ind2_2</subfield>
+            <subfield code="v">651_sub_v</subfield>
+            <subfield code="x">651_sub_x</subfield>
+            <subfield code="y">651_sub_y</subfield>
+            <subfield code="z">651_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="3" tag="651">
+            <subfield code="a">651_sub_a_ind2_3</subfield>
+            <subfield code="v">651_sub_v</subfield>
+            <subfield code="x">651_sub_x</subfield>
+            <subfield code="y">651_sub_y</subfield>
+            <subfield code="z">651_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="651">
+            <subfield code="a">651_sub_a_ind2_4</subfield>
+            <subfield code="v">651_sub_v</subfield>
+            <subfield code="x">651_sub_x</subfield>
+            <subfield code="y">651_sub_y</subfield>
+            <subfield code="z">651_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="5" tag="651">
+            <subfield code="a">651_sub_a_ind2_5</subfield>
+            <subfield code="v">651_sub_v</subfield>
+            <subfield code="x">651_sub_x</subfield>
+            <subfield code="y">651_sub_y</subfield>
+            <subfield code="z">651_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="6" tag="651">
+            <subfield code="a">651_sub_a_ind2_6</subfield>
+            <subfield code="v">651_sub_v</subfield>
+            <subfield code="x">651_sub_x</subfield>
+            <subfield code="y">651_sub_y</subfield>
+            <subfield code="z">651_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="651">
+            <subfield code="a">651_sub_a_ind2_7</subfield>
+            <subfield code="v">651_sub_v</subfield>
+            <subfield code="x">651_sub_x</subfield>
+            <subfield code="y">651_sub_y</subfield>
+            <subfield code="z">651_sub_z</subfield>
+            <subfield code="2">651_sub_2_otherSource</subfield>
+        </marc:datafield>
+        
         <marc:datafield ind1=" " ind2="0" tag="655">
-            <subfield code="a">655_sub_a</subfield>
+            <subfield code="a">655_sub_a_ind2_</subfield>
+            <subfield code="b">655_sub_b</subfield>
+            <subfield code="v">655_sub_v</subfield>
+            <subfield code="x">655_sub_x</subfield>
+            <subfield code="y">655_sub_y</subfield>
+            <subfield code="z">655_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="1" tag="655">
+            <subfield code="a">655_sub_a_ind2_1</subfield>
+            <subfield code="b">655_sub_b</subfield>
+            <subfield code="v">655_sub_v</subfield>
+            <subfield code="x">655_sub_x</subfield>
+            <subfield code="y">655_sub_y</subfield>
+            <subfield code="z">655_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="2" tag="655">
+            <subfield code="a">655_sub_a_ind2_2</subfield>
+            <subfield code="b">655_sub_b</subfield>
+            <subfield code="v">655_sub_v</subfield>
+            <subfield code="x">655_sub_x</subfield>
+            <subfield code="y">655_sub_y</subfield>
+            <subfield code="z">655_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="3" tag="655">
+            <subfield code="a">655_sub_a_ind2_3</subfield>
+            <subfield code="b">655_sub_b</subfield>
+            <subfield code="v">655_sub_v</subfield>
+            <subfield code="x">655_sub_x</subfield>
+            <subfield code="y">655_sub_y</subfield>
+            <subfield code="z">655_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="655">
+            <subfield code="a">655_sub_a_ind2_4</subfield>
+            <subfield code="b">655_sub_b</subfield>
+            <subfield code="v">655_sub_v</subfield>
+            <subfield code="x">655_sub_x</subfield>
+            <subfield code="y">655_sub_y</subfield>
+            <subfield code="z">655_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="5" tag="655">
+            <subfield code="a">655_sub_a_ind2_5</subfield>
+            <subfield code="b">655_sub_b</subfield>
+            <subfield code="v">655_sub_v</subfield>
+            <subfield code="x">655_sub_x</subfield>
+            <subfield code="y">655_sub_y</subfield>
+            <subfield code="z">655_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="6" tag="655">
+            <subfield code="a">655_sub_a_ind2_6</subfield>
+            <subfield code="b">655_sub_b</subfield>
             <subfield code="v">655_sub_v</subfield>
             <subfield code="x">655_sub_x</subfield>
             <subfield code="y">655_sub_y</subfield>
@@ -216,7 +317,46 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2="7" tag="655">
             <subfield code="a">655_sub_a_ind2_7</subfield>
-            <subfield code="2">655_sub_2</subfield>
+            <subfield code="b">655_sub_b</subfield>
+            <subfield code="v">655_sub_v</subfield>
+            <subfield code="x">655_sub_x</subfield>
+            <subfield code="y">655_sub_y</subfield>
+            <subfield code="z">655_sub_z</subfield>
+            <subfield code="2">655_sub_2_OtherSource</subfield>
+        </marc:datafield>
+        
+        <marc:datafield ind1=" " ind2=" " tag="656">
+            <subfield code="a">656_sub_a</subfield>
+            <subfield code="k">656_sub_k</subfield>
+            <subfield code="v">656_sub_v</subfield>
+            <subfield code="x">656_sub_x</subfield>
+            <subfield code="y">656_sub_y</subfield>
+            <subfield code="z">656_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="656">
+            <subfield code="a">656_sub_a_ind2_7</subfield>
+            <subfield code="k">656_sub_k</subfield>
+            <subfield code="v">656_sub_v</subfield>
+            <subfield code="x">656_sub_x</subfield>
+            <subfield code="y">656_sub_y</subfield>
+            <subfield code="z">656_sub_z</subfield>
+            <subfield code="2">656_sub_2_OtherSource</subfield>
+        </marc:datafield>
+        
+        <marc:datafield ind1=" " ind2=" " tag="657">
+            <subfield code="a">657_sub_a</subfield>
+            <subfield code="v">657_sub_v</subfield>
+            <subfield code="x">657_sub_x</subfield>
+            <subfield code="y">657_sub_y</subfield>
+            <subfield code="z">657_sub_z</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="657">
+            <subfield code="a">657_sub_a_ind2_7</subfield>
+            <subfield code="v">657_sub_v</subfield>
+            <subfield code="x">657_sub_x</subfield>
+            <subfield code="y">657_sub_y</subfield>
+            <subfield code="z">657_sub_z</subfield>
+            <subfield code="2">657_sub_2_OtherSource</subfield>
         </marc:datafield>
 
         <marc:datafield ind1=" " ind2="0" tag="700">
