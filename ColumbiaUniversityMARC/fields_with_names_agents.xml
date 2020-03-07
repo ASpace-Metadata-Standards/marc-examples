@@ -25,17 +25,33 @@
             <subfield code="a">jpn</subfield> <!--needs to be an iso 6392b code-->
         </marc:datafield>
         
-        <marc:datafield ind1=" " ind2="0" tag="130">
+<!--     not every subfield tested, because the importer has a 255 char limit on the big concatenated field that is created. !!!   -->
+        <marc:datafield ind1="3" ind2="0" tag="100">
+            <subfield code="a">100_sub_a_ind1_3_ind2_zero</subfield>
+            <subfield code="b">100_sub_b</subfield>
+            <subfield code="c">100_sub_c</subfield>
+            <subfield code="d">100_sub_d</subfield>
+            <subfield code="e">100_sub_e</subfield>
+            <subfield code="f">100_sub_f</subfield>
+            <subfield code="g">100_sub_g</subfield>
+            <subfield code="v">100_sub_v</subfield>
+            <subfield code="x">100_sub_x</subfield>
+            <subfield code="y">100_sub_y</subfield>
+            <subfield code="z">100_sub_z</subfield>
+            <subfield code="4">100_sub_4</subfield>
+        </marc:datafield>
+        
+       <!-- <marc:datafield ind1=" " ind2="0" tag="130">
             <subfield code="a">130_sub_a_ind2_zero</subfield>
             <subfield code="d">130_sub_d</subfield>
             <subfield code="v">130_sub_v_genre</subfield>
             <subfield code="x">130_sub_x_topical</subfield>
             <subfield code="y">130_sub_y_temporal</subfield>
             <subfield code="z">130_sub_z_geographic</subfield>
-        </marc:datafield>
+        </marc:datafield>-->
         
         <marc:datafield ind1="0" ind2="0" tag="245">
-            <subfield code="a">245_sub_a_SUBJECTS</subfield>
+            <subfield code="a">245_sub_a_AGENTS</subfield>
             <subfield code="f">1952-1995</subfield> <!--needs to be date formated-->
             <subfield code="g">bulk 1970-1979</subfield> <!--needs to be date formated-->
         </marc:datafield>
@@ -43,15 +59,22 @@
             <subfield code="a">300_sub_a_1</subfield>
             <subfield code="f">300_sub_f_1</subfield>
         </marc:datafield>
-        <marc:datafield ind1=" " ind2="0" tag="600">
-            <subfield code="a">600_sub_a</subfield>
+        <!--     not every subfield tested, because the importer has a 255 char limit othe big concatenated field that is created. !!!   -->
+        <marc:datafield ind1="0" ind2="0" tag="600">
+            <subfield code="a">600_sub_a_ind1_0_ind2_zero</subfield>
+            <subfield code="b">600_sub_b</subfield>
+            <subfield code="c">600_sub_c</subfield>
             <subfield code="d">600_sub_d</subfield>
+            <subfield code="e">600_sub_e</subfield>
+            <subfield code="f">600_sub_f</subfield>
+            <subfield code="g">600_sub_g</subfield>
+            <subfield code="v">600_sub_v</subfield>
+            <subfield code="x">600_sub_x</subfield>
+            <subfield code="y">600_sub_y</subfield>
+            <subfield code="z">600_sub_z</subfield>
+            <subfield code="4">600_sub_4</subfield>
         </marc:datafield>
-        <marc:datafield ind1=" " ind2="7" tag="600">
-            <subfield code="a">600_sub_a</subfield>
-            <subfield code="d">600_sub_d</subfield>
-            <subfield code="2">600_sub_2</subfield>
-        </marc:datafield>
+        
         
         <marc:datafield ind1=" " ind2="0" tag="630">
             <subfield code="a">630_sub_a_ind2_zero</subfield>
@@ -118,6 +141,23 @@
             <subfield code="z">630_sub_z</subfield>
             <subfield code="2">630_sub_2_other_source</subfield>
         </marc:datafield>
+        
+        <!--     not every subfield tested, because the importer has a 255 char limit othe big concatenated field that is created. !!!   -->
+        <marc:datafield ind1="0" ind2="0" tag="700">
+            <subfield code="a">700_sub_a_ind1_0_ind2_zero</subfield>
+            <subfield code="b">700_sub_b</subfield>
+            <subfield code="c">700_sub_c</subfield>
+            <subfield code="d">700_sub_d</subfield>
+            <subfield code="e">700_sub_e</subfield>
+            <subfield code="f">700_sub_f</subfield>
+            <subfield code="g">700_sub_g</subfield>
+            <subfield code="v">700_sub_v</subfield>
+            <subfield code="x">700_sub_x</subfield>
+            <subfield code="y">700_sub_y</subfield>
+            <subfield code="z">700_sub_z</subfield>
+            <subfield code="4">700_sub_4</subfield>
+        </marc:datafield>
+        
 
         <marc:datafield ind1=" " ind2="0" tag="730">
             <subfield code="a">730_sub_a_ind2_zero</subfield>
@@ -185,24 +225,6 @@
             <subfield code="2">730_sub_2_other_source</subfield>
         </marc:datafield>
       
-        <marc:datafield ind1=" " ind2="0" tag="700">
-            <subfield code="a">700_sub_a</subfield>
-            <subfield code="d">700_sub_d</subfield>
-        </marc:datafield>
-        <marc:datafield ind1=" " ind2="7" tag="700">
-            <subfield code="a">700_sub_a</subfield>
-            <subfield code="d">700_sub_d</subfield>
-            <subfield code="2">700_sub_2</subfield>
-        </marc:datafield>
-
-        <marc:datafield ind1=" " ind2="0" tag="710">
-            <subfield code="a">710_sub_a</subfield>
-            <subfield code="d">710_sub_d</subfield>
-        </marc:datafield>
-        <marc:datafield ind1=" " ind2="7" tag="710">
-            <subfield code="a">710_sub_a</subfield>
-            <subfield code="d">710_sub_d</subfield>
-            <subfield code="2">710_sub_2</subfield>
-        </marc:datafield>
+    
     </marc:record>
 </marc:collection>
