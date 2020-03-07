@@ -26,7 +26,7 @@
         </marc:datafield>
         
 <!--     not every subfield tested, because the importer has a 255 char limit on the big concatenated field that is created. !!!   -->
-        <marc:datafield ind1="3" ind2="0" tag="100">
+        <!--<marc:datafield ind1="3" ind2="2" tag="100">
             <subfield code="a">100_sub_a_ind1_3_ind2_zero</subfield>
             <subfield code="b">100_sub_b</subfield>
             <subfield code="c">100_sub_c</subfield>
@@ -39,6 +39,18 @@
             <subfield code="y">100_sub_y</subfield>
             <subfield code="z">100_sub_z</subfield>
             <subfield code="4">100_sub_4</subfield>
+        </marc:datafield>-->
+        
+        <marc:datafield ind1="0" ind2=" " tag="110">
+            <subfield code="a">110_sub_a_ind1_0_ind2_zero</subfield>
+            <subfield code="b">110_sub_b_1</subfield>
+            <subfield code="b">110_sub_b_2</subfield>
+            <subfield code="c">110_sub_c</subfield>
+            <subfield code="v">110_sub_v</subfield>
+            <subfield code="x">110_sub_x</subfield>
+            <subfield code="y">110_sub_y</subfield>
+            <subfield code="z">110_sub_z</subfield>
+            <subfield code="4">110_sub_4</subfield>
         </marc:datafield>
         
        <!-- <marc:datafield ind1=" " ind2="0" tag="130">
@@ -60,7 +72,7 @@
             <subfield code="f">300_sub_f_1</subfield>
         </marc:datafield>
         <!--     not every subfield tested, because the importer has a 255 char limit othe big concatenated field that is created. !!!   -->
-        <marc:datafield ind1="0" ind2="0" tag="600">
+        <!--<marc:datafield ind1="0" ind2="0" tag="600">
             <subfield code="a">600_sub_a_ind1_0_ind2_zero</subfield>
             <subfield code="b">600_sub_b</subfield>
             <subfield code="c">600_sub_c</subfield>
@@ -73,6 +85,18 @@
             <subfield code="y">600_sub_y</subfield>
             <subfield code="z">600_sub_z</subfield>
             <subfield code="4">600_sub_4</subfield>
+        </marc:datafield>-->
+        
+        <marc:datafield ind1="0" ind2=" " tag="610">
+            <subfield code="a">610_sub_a_ind1_0_ind2_zero</subfield>
+            <subfield code="b">610_sub_b_1</subfield>
+            <subfield code="b">610_sub_b_2</subfield>
+            <subfield code="c">610_sub_c</subfield>
+            <subfield code="v">610_sub_v</subfield>
+            <subfield code="x">610_sub_x</subfield>
+            <subfield code="y">610_sub_y</subfield>
+            <subfield code="z">610_sub_z</subfield>
+            <subfield code="4">610_sub_4</subfield>
         </marc:datafield>
         
         
@@ -143,7 +167,7 @@
         </marc:datafield>
         
         <!--     not every subfield tested, because the importer has a 255 char limit othe big concatenated field that is created. !!!   -->
-        <marc:datafield ind1="0" ind2="0" tag="700">
+        <!--<marc:datafield ind1="0" ind2="0" tag="700">
             <subfield code="a">700_sub_a_ind1_0_ind2_zero</subfield>
             <subfield code="b">700_sub_b</subfield>
             <subfield code="c">700_sub_c</subfield>
@@ -156,6 +180,18 @@
             <subfield code="y">700_sub_y</subfield>
             <subfield code="z">700_sub_z</subfield>
             <subfield code="4">700_sub_4</subfield>
+        </marc:datafield>-->
+        
+        <marc:datafield ind1="0" ind2=" " tag="710">
+            <subfield code="a">710_sub_a_ind1_0_ind2_zero</subfield>
+            <subfield code="b">710_sub_b_1</subfield>
+            <subfield code="b">710_sub_b_2</subfield>
+            <subfield code="c">710_sub_c</subfield>
+            <subfield code="v">710_sub_v</subfield>
+            <subfield code="x">710_sub_x</subfield>
+            <subfield code="y">710_sub_y</subfield>
+            <subfield code="z">710_sub_z</subfield>
+            <subfield code="4">710_sub_4</subfield>
         </marc:datafield>
         
 
