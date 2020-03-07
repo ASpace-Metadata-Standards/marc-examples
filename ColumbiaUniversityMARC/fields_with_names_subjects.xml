@@ -260,7 +260,7 @@
         </marc:datafield>
         
         <marc:datafield ind1=" " ind2="0" tag="655">
-            <subfield code="a">655_sub_a_ind2_</subfield>
+            <subfield code="a">655_sub_a_ind2_0</subfield>
             <subfield code="b">655_sub_b</subfield>
             <subfield code="v">655_sub_v</subfield>
             <subfield code="x">655_sub_x</subfield>
@@ -325,7 +325,7 @@
             <subfield code="2">655_sub_2_OtherSource</subfield>
         </marc:datafield>
         
-        <marc:datafield ind1=" " ind2=" " tag="656">
+       <!-- <marc:datafield ind1=" " ind2=" " tag="656">
             <subfield code="a">656_sub_a</subfield>
             <subfield code="k">656_sub_k</subfield>
             <subfield code="v">656_sub_v</subfield>
@@ -341,9 +341,9 @@
             <subfield code="y">656_sub_y</subfield>
             <subfield code="z">656_sub_z</subfield>
             <subfield code="2">656_sub_2_OtherSource</subfield>
-        </marc:datafield>
+        </marc:datafield>-->
         
-        <marc:datafield ind1=" " ind2=" " tag="657">
+      <!--  <marc:datafield ind1=" " ind2=" " tag="657">
             <subfield code="a">657_sub_a</subfield>
             <subfield code="v">657_sub_v</subfield>
             <subfield code="x">657_sub_x</subfield>
@@ -357,7 +357,7 @@
             <subfield code="y">657_sub_y</subfield>
             <subfield code="z">657_sub_z</subfield>
             <subfield code="2">657_sub_2_OtherSource</subfield>
-        </marc:datafield>
+        </marc:datafield>-->
 
         <marc:datafield ind1=" " ind2="0" tag="700">
             <subfield code="a">700_sub_a</subfield>
