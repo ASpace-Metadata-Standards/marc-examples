@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim"
+    xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+    <marc:record>
+        <marc:leader>00000npcaa2200000 u 4500</marc:leader>
+        <marc:controlfield tag="001">ControlField001</marc:controlfield>
+        <marc:controlfield tag="003">ControlField003</marc:controlfield>
+        <marc:controlfield tag="008">191109i19202010xxu eng
+            d</marc:controlfield>
+        <!--this includes date and lang information-->
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">First_035_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">Second_035_sub_a</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">040_sub_a</subfield>
+            <subfield code="b">eng</subfield>
+            <!--needs to be an iso 6392b code-->
+            <subfield code="c">040_sub_c</subfield>
+            <subfield code="e">Describing Archives: A Content
+                Standard</subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="041">
+            <!--case - if repeatable, repeat subfields or datafields?-->
+            <subfield code="a">eng</subfield>
+            <!--needs to be an iso 6392b code-->
+            <subfield code="a">jpn</subfield>
+            <!--needs to be an iso 6392b code-->
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+            <!--needs to be an iso 6392b code-->
+        </marc:datafield>
+        
+        <marc:datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">245_sub_a_EXTENTS</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">300_sub_a_1</subfield>
+            <subfield code="b">300_sub_b_1</subfield>
+            <subfield code="c">300_sub_c_1</subfield>
+            <subfield code="e">300_sub_e_1</subfield>
+            <subfield code="f">300_sub_f_1</subfield>
+            <subfield code="g">300_sub_g_1</subfield>
+            <subfield code="3">300_sub_3_1</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">4</subfield>
+            <subfield code="f">linear feet</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">4 linear feet</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">4</subfield>
+            <subfield code="f">linear feet (8 document boxes)</subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">7</subfield>
+            <subfield code="f">linear feet</subfield>
+            <subfield code="a">(14</subfield>
+            <subfield code="f">document boxes)</subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
